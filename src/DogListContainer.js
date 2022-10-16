@@ -19,7 +19,6 @@ export const DogListContainer = () => {
   return (
     //<BreedsSelect
     <>
-      <div>testです</div>
       {/* <select>
         <option value="nomu">飲む</option>
         <option value="utsu">うつ</option>
